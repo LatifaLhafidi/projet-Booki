@@ -453,17 +453,15 @@ footer p {
         border-top: none;
          border-top-color: transparent;
         border-bottom: 3px solid #0065FC;
+        border-top: 3px solid transparent;
     }
-
-
-    .active {
-        border-bottom: 3px solid #0065FC;
-    }
-
 
 
     .link {
         width: 50%;
+        border-top: 3px solid transparent;
+      
+    
     }
 
     .recherche-champ {
