@@ -365,7 +365,7 @@ header nav a:hover {
     border-radius: 16px;
     box-shadow: 0 0 8px grey;
     max-width: 30%;
-    min-width: 20%;
+    min-width: 22%;
     height: 450px;
 }
 
@@ -375,6 +375,7 @@ header nav a:hover {
     border-radius: 16px 16px 0 0;
     height: 90%;
 }
+
 
 
 
@@ -637,7 +638,7 @@ footer p {
         box-shadow: 0 0 8px grey;
         max-width: 40%;
         min-width: 25%;
-        height: 350px;
+        height: 310px;
     }
 }
 
