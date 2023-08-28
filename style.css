@@ -203,7 +203,7 @@ header nav a:hover {
     flex-basis: 66%;
 }
 
-.sectionGroupe .hebergement-populaire {
+.sectionGroupe .populaire {
     flex-basis: 33%;
 }
 
@@ -626,12 +626,21 @@ footer p {
     .activites-list {
         display: flex;
         flex-wrap: nowrap;
-        gap: 30px;
+        gap: 10px;
         padding-top: 15px;
         width: 98%;
     
     }
-    
+    .card-activite {
+        display: flex;
+        flex-direction: column;
+        flex-basis: 22%;
+        border-radius: 16px;
+        box-shadow: 0 0 8px grey;
+        max-width: 40%;
+        min-width: 25%;
+        height: 350px;
+    }
 }
 
 /* @media screen and (min-width: 1000px)and (max-width: 1920px) {
