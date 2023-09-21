@@ -8,7 +8,7 @@ body {
     max-width: 1440px;
     min-width: 320px;
     margin: 0 auto;
-   
+
 }
 
 /* header */
@@ -490,15 +490,18 @@ footer p {
     }
    
   .sectionGroupe .hebergement-marseille{
-    background-color: white;
+   background-color: white;
     border-radius: 0%;
+    
 
 }
 .sectionGroupe .populaires{
-  
+   
     border-radius: 0%;
+    
 
-
+}
+   
 
     .cards {
         display: flex;
@@ -561,7 +564,7 @@ footer p {
 
 /* tablette */
 
-@media screen and (min-width: 769px) and (max-width: 993px) {
+@media screen and (min-width: 769px)and (max-width: 993px){
     .filters h3 {
         width: 100%;
     }
